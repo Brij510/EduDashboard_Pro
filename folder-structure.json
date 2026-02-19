@@ -1,51 +1,4 @@
 {
-  "categories": [],
-  "videos": [
-    {
-      "id": "video-sample-1",
-      "title": "Introduction to Classical Mechanics",
-      "description": "Fundamental concepts of motion, forces, and energy",
-      "thumbnail": "https://img.youtube.com/vi/W6NZfCO5SIk/maxresdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=W6NZfCO5SIk",
-      "duration": "45:30",
-      "categoryId": "folder-lecture-physics",
-      "watched": false,
-      "createdAt": "2024-01-15"
-    },
-    {
-      "id": "imported-1771465640736-video-sample-1",
-      "title": "Introduction to Classical Mechanics",
-      "description": "Fundamental concepts of motion, forces, and energy",
-      "thumbnail": "https://img.youtube.com/vi/W6NZfCO5SIk/maxresdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=W6NZfCO5SIk",
-      "duration": "45:30",
-      "categoryId": "imported-1771465640736-folder-lecture-physics",
-      "watched": false,
-      "createdAt": "2024-01-15"
-    },
-    {
-      "id": "imported-1771465640736-imported-1771267926223-video-sample-1",
-      "title": "Introduction to Classical Mechanics",
-      "description": "Fundamental concepts of motion, forces, and energy",
-      "thumbnail": "https://img.youtube.com/vi/W6NZfCO5SIk/maxresdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=W6NZfCO5SIk",
-      "duration": "45:30",
-      "categoryId": "imported-1771465640736-imported-1771267926223-folder-lecture-physics",
-      "watched": false,
-      "createdAt": "2024-01-15"
-    },
-    {
-      "id": "imported-1771465640736-imported-1771267935310-video-sample-1",
-      "title": "Introduction to Classical Mechanics",
-      "description": "Fundamental concepts of motion, forces, and energy",
-      "thumbnail": "https://img.youtube.com/vi/W6NZfCO5SIk/maxresdefault.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=W6NZfCO5SIk",
-      "duration": "45:30",
-      "categoryId": "imported-1771465640736-imported-1771267935310-folder-lecture-physics",
-      "watched": false,
-      "createdAt": "2024-01-15"
-    }
-  ],
   "contents": [
     {
       "id": "video-sample-1",
@@ -66,197 +19,235 @@
       "pdfUrl": "https://drive.google.com/file/d/example/view"
     },
     {
-      "id": "imported-1771465640736-video-sample-1",
+      "id": "imported-1771267926223-folder-class-9th",
+      "name": "Class-9th",
+      "type": "folder",
+      "parentId": null,
+      "createdAt": "2024-01-01"
+    },
+    {
+      "id": "imported-1771267926223-video-sample-1",
       "name": "Introduction to Classical Mechanics",
       "type": "video",
-      "parentId": "imported-1771465640736-folder-lecture-physics",
+      "parentId": "imported-1771267926223-folder-lecture-physics",
       "createdAt": "2024-01-15",
       "videoUrl": "https://www.youtube.com/watch?v=W6NZfCO5SIk",
       "duration": "45:30",
       "description": "Fundamental concepts of motion, forces, and energy"
     },
     {
-      "id": "imported-1771465640736-pdf-sample-1",
+      "id": "imported-1771267926223-pdf-sample-1",
       "name": "Physics Class 12 NCERT",
       "type": "pdf",
-      "parentId": "imported-1771465640736-folder-textbook-physics",
+      "parentId": "imported-1771267926223-folder-textbook-physics",
       "createdAt": "2024-01-10",
       "pdfUrl": "https://drive.google.com/file/d/example/view"
     },
     {
-      "id": "imported-1771465640736-imported-1771267926223-video-sample-1",
-      "name": "Introduction to Classical Mechanics",
-      "type": "video",
-      "parentId": "imported-1771465640736-imported-1771267926223-folder-lecture-physics",
-      "createdAt": "2024-01-15",
-      "videoUrl": "https://www.youtube.com/watch?v=W6NZfCO5SIk",
-      "duration": "45:30",
-      "description": "Fundamental concepts of motion, forces, and energy"
+      "id": "imported-1771267926223-folder-1771267472904",
+      "name": "Science",
+      "type": "folder",
+      "parentId": "imported-1771267926223-folder-class-9th",
+      "createdAt": "2026-02-16T18:44:32.904Z"
     },
     {
-      "id": "imported-1771465640736-imported-1771267926223-pdf-sample-1",
-      "name": "Physics Class 12 NCERT",
-      "type": "pdf",
-      "parentId": "imported-1771465640736-imported-1771267926223-folder-textbook-physics",
-      "createdAt": "2024-01-10",
-      "pdfUrl": "https://drive.google.com/file/d/example/view"
+      "id": "imported-1771267926223-folder-1771267493782",
+      "name": "SSC",
+      "type": "folder",
+      "parentId": "imported-1771267926223-folder-class-9th",
+      "createdAt": "2026-02-16T18:44:53.782Z"
     },
     {
-      "id": "imported-1771465640736-imported-1771267926223-folder-1771267543823",
+      "id": "imported-1771267926223-folder-1771267504870",
+      "name": "Maths",
+      "type": "folder",
+      "parentId": "imported-1771267926223-folder-class-9th",
+      "createdAt": "2026-02-16T18:45:04.870Z"
+    },
+    {
+      "id": "imported-1771267926223-folder-1771267543823",
       "name": "Exampler",
       "type": "folder",
-      "parentId": "imported-1771465640736-imported-1771267926223-folder-1771267472904",
+      "parentId": "imported-1771267926223-folder-1771267472904",
       "createdAt": "2026-02-16T18:45:43.823Z"
     },
     {
-      "id": "imported-1771465640736-imported-1771267926223-folder-1771267559813",
+      "id": "imported-1771267926223-folder-1771267559813",
       "name": "NCERT",
       "type": "folder",
-      "parentId": "imported-1771465640736-imported-1771267926223-folder-1771267472904",
+      "parentId": "imported-1771267926223-folder-1771267472904",
       "createdAt": "2026-02-16T18:45:59.813Z"
     },
     {
-      "id": "imported-1771465640736-imported-1771267926223-folder-1771267575481",
+      "id": "imported-1771267926223-folder-1771267575481",
       "name": "Lectures",
       "type": "folder",
-      "parentId": "imported-1771465640736-imported-1771267926223-folder-1771267472904",
+      "parentId": "imported-1771267926223-folder-1771267472904",
       "createdAt": "2026-02-16T18:46:15.481Z"
     },
     {
-      "id": "imported-1771465640736-imported-1771267926223-folder-1771267665292",
+      "id": "imported-1771267926223-folder-1771267665292",
       "name": "Notes",
       "type": "folder",
-      "parentId": "imported-1771465640736-imported-1771267926223-folder-1771267493782",
+      "parentId": "imported-1771267926223-folder-1771267493782",
       "createdAt": "2026-02-16T18:47:45.292Z"
     },
     {
-      "id": "imported-1771465640736-imported-1771267926223-folder-1771267680354",
+      "id": "imported-1771267926223-folder-1771267680354",
       "name": "Lectures",
       "type": "folder",
-      "parentId": "imported-1771465640736-imported-1771267926223-folder-1771267493782",
+      "parentId": "imported-1771267926223-folder-1771267493782",
       "createdAt": "2026-02-16T18:48:00.354Z"
     },
     {
-      "id": "imported-1771465640736-imported-1771267926223-folder-1771267748911",
+      "id": "imported-1771267926223-folder-1771267748911",
       "name": "NCERT",
       "type": "folder",
-      "parentId": "imported-1771465640736-imported-1771267926223-folder-1771267493782",
+      "parentId": "imported-1771267926223-folder-1771267493782",
       "createdAt": "2026-02-16T18:49:08.912Z"
     },
     {
-      "id": "imported-1771465640736-imported-1771267926223-folder-1771267769970",
+      "id": "imported-1771267926223-folder-1771267769970",
       "name": "Lectures",
       "type": "folder",
-      "parentId": "imported-1771465640736-imported-1771267926223-folder-1771267504870",
+      "parentId": "imported-1771267926223-folder-1771267504870",
       "createdAt": "2026-02-16T18:49:29.970Z"
     },
     {
-      "id": "imported-1771465640736-imported-1771267926223-folder-1771267782789",
+      "id": "imported-1771267926223-folder-1771267782789",
       "name": "PDFs",
       "type": "folder",
-      "parentId": "imported-1771465640736-imported-1771267926223-folder-1771267504870",
+      "parentId": "imported-1771267926223-folder-1771267504870",
       "createdAt": "2026-02-16T18:49:42.789Z"
     },
     {
-      "id": "imported-1771465640736-imported-1771267926223-folder-1771267808262",
+      "id": "imported-1771267926223-folder-1771267808262",
       "name": "NCERT",
       "type": "folder",
-      "parentId": "imported-1771465640736-imported-1771267926223-folder-1771267504870",
+      "parentId": "imported-1771267926223-folder-1771267504870",
       "createdAt": "2026-02-16T18:50:08.262Z"
     },
     {
-      "id": "imported-1771465640736-imported-1771267926223-folder-1771267816652",
+      "id": "imported-1771267926223-folder-1771267816652",
       "name": "Exampler",
       "type": "folder",
-      "parentId": "imported-1771465640736-imported-1771267926223-folder-1771267504870",
+      "parentId": "imported-1771267926223-folder-1771267504870",
       "createdAt": "2026-02-16T18:50:16.652Z"
     },
     {
-      "id": "imported-1771465640736-imported-1771267935310-video-sample-1",
+      "id": "imported-1771267935310-folder-class-9th",
+      "name": "Class-10th",
+      "type": "folder",
+      "parentId": null,
+      "createdAt": "2024-01-01"
+    },
+    {
+      "id": "imported-1771267935310-video-sample-1",
       "name": "Introduction to Classical Mechanics",
       "type": "video",
-      "parentId": "imported-1771465640736-imported-1771267935310-folder-lecture-physics",
+      "parentId": "imported-1771267935310-folder-lecture-physics",
       "createdAt": "2024-01-15",
       "videoUrl": "https://www.youtube.com/watch?v=W6NZfCO5SIk",
       "duration": "45:30",
       "description": "Fundamental concepts of motion, forces, and energy"
     },
     {
-      "id": "imported-1771465640736-imported-1771267935310-pdf-sample-1",
+      "id": "imported-1771267935310-pdf-sample-1",
       "name": "Physics Class 12 NCERT",
       "type": "pdf",
-      "parentId": "imported-1771465640736-imported-1771267935310-folder-textbook-physics",
+      "parentId": "imported-1771267935310-folder-textbook-physics",
       "createdAt": "2024-01-10",
       "pdfUrl": "https://drive.google.com/file/d/example/view"
     },
     {
-      "id": "imported-1771465640736-imported-1771267935310-folder-1771267543823",
+      "id": "imported-1771267935310-folder-1771267472904",
+      "name": "Science",
+      "type": "folder",
+      "parentId": "imported-1771267935310-folder-class-9th",
+      "createdAt": "2026-02-16T18:44:32.904Z"
+    },
+    {
+      "id": "imported-1771267935310-folder-1771267493782",
+      "name": "SSC",
+      "type": "folder",
+      "parentId": "imported-1771267935310-folder-class-9th",
+      "createdAt": "2026-02-16T18:44:53.782Z"
+    },
+    {
+      "id": "imported-1771267935310-folder-1771267504870",
+      "name": "Maths",
+      "type": "folder",
+      "parentId": "imported-1771267935310-folder-class-9th",
+      "createdAt": "2026-02-16T18:45:04.870Z"
+    },
+    {
+      "id": "imported-1771267935310-folder-1771267543823",
       "name": "Exampler",
       "type": "folder",
-      "parentId": "imported-1771465640736-imported-1771267935310-folder-1771267472904",
+      "parentId": "imported-1771267935310-folder-1771267472904",
       "createdAt": "2026-02-16T18:45:43.823Z"
     },
     {
-      "id": "imported-1771465640736-imported-1771267935310-folder-1771267559813",
+      "id": "imported-1771267935310-folder-1771267559813",
       "name": "NCERT",
       "type": "folder",
-      "parentId": "imported-1771465640736-imported-1771267935310-folder-1771267472904",
+      "parentId": "imported-1771267935310-folder-1771267472904",
       "createdAt": "2026-02-16T18:45:59.813Z"
     },
     {
-      "id": "imported-1771465640736-imported-1771267935310-folder-1771267575481",
+      "id": "imported-1771267935310-folder-1771267575481",
       "name": "Lectures",
       "type": "folder",
-      "parentId": "imported-1771465640736-imported-1771267935310-folder-1771267472904",
+      "parentId": "imported-1771267935310-folder-1771267472904",
       "createdAt": "2026-02-16T18:46:15.481Z"
     },
     {
-      "id": "imported-1771465640736-imported-1771267935310-folder-1771267665292",
+      "id": "imported-1771267935310-folder-1771267665292",
       "name": "Notes",
       "type": "folder",
-      "parentId": "imported-1771465640736-imported-1771267935310-folder-1771267493782",
+      "parentId": "imported-1771267935310-folder-1771267493782",
       "createdAt": "2026-02-16T18:47:45.292Z"
     },
     {
-      "id": "imported-1771465640736-imported-1771267935310-folder-1771267680354",
+      "id": "imported-1771267935310-folder-1771267680354",
       "name": "Lectures",
       "type": "folder",
-      "parentId": "imported-1771465640736-imported-1771267935310-folder-1771267493782",
+      "parentId": "imported-1771267935310-folder-1771267493782",
       "createdAt": "2026-02-16T18:48:00.354Z"
     },
     {
-      "id": "imported-1771465640736-imported-1771267935310-folder-1771267748911",
+      "id": "imported-1771267935310-folder-1771267748911",
       "name": "NCERT",
       "type": "folder",
-      "parentId": "imported-1771465640736-imported-1771267935310-folder-1771267493782",
+      "parentId": "imported-1771267935310-folder-1771267493782",
       "createdAt": "2026-02-16T18:49:08.912Z"
     },
     {
-      "id": "imported-1771465640736-imported-1771267935310-folder-1771267769970",
+      "id": "imported-1771267935310-folder-1771267769970",
       "name": "Lectures",
       "type": "folder",
-      "parentId": "imported-1771465640736-imported-1771267935310-folder-1771267504870",
+      "parentId": "imported-1771267935310-folder-1771267504870",
       "createdAt": "2026-02-16T18:49:29.970Z"
     },
     {
-      "id": "imported-1771465640736-imported-1771267935310-folder-1771267782789",
+      "id": "imported-1771267935310-folder-1771267782789",
       "name": "PDFs",
       "type": "folder",
-      "parentId": "imported-1771465640736-imported-1771267935310-folder-1771267504870",
+      "parentId": "imported-1771267935310-folder-1771267504870",
       "createdAt": "2026-02-16T18:49:42.789Z"
     },
     {
-      "id": "imported-1771465640736-imported-1771267935310-folder-1771267808262",
+      "id": "imported-1771267935310-folder-1771267808262",
       "name": "NCERT",
       "type": "folder",
-      "parentId": "imported-1771465640736-imported-1771267935310-folder-1771267504870",
+      "parentId": "imported-1771267935310-folder-1771267504870",
       "createdAt": "2026-02-16T18:50:08.262Z"
     },
     {
-      "id": "imported-1771465640736-imported-1771267935310-folder-1771267816652",
+      "id": "imported-1771267935310-folder-1771267816652",
       "name": "Exampler",
       "type": "folder",
-      "parentId": "imported-1771465640736-imported-1771267935310-folder-1771267504870",
+      "parentId": "imported-1771267935310-folder-1771267504870",
       "createdAt": "2026-02-16T18:50:16.652Z"
     }
   ]
