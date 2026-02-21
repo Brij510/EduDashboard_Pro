@@ -1,212 +1,4 @@
 {
-  "categories": [
-    {
-      "id": "folder-class-9th",
-      "name": "Class-9th",
-      "icon": "GraduationCap",
-      "children": [
-        {
-          "id": "folder-1771664761190",
-          "name": "Science",
-          "icon": "Folder",
-          "children": [
-            {
-              "id": "folder-1771664832756",
-              "name": "Lectures",
-              "icon": "Video",
-              "parentId": "folder-1771664761190"
-            },
-            {
-              "id": "folder-1771664844902",
-              "name": "Notes",
-              "icon": "FileText",
-              "parentId": "folder-1771664761190"
-            },
-            {
-              "id": "folder-1771664862897",
-              "name": "Books",
-              "icon": "Folder",
-              "parentId": "folder-1771664761190"
-            }
-          ],
-          "parentId": "folder-class-9th"
-        },
-        {
-          "id": "folder-1771664771026",
-          "name": "Maths",
-          "icon": "Folder",
-          "children": [
-            {
-              "id": "folder-1771664937992",
-              "name": "Lectures",
-              "icon": "Video",
-              "parentId": "folder-1771664771026"
-            },
-            {
-              "id": "folder-1771664946992",
-              "name": "Books",
-              "icon": "Folder",
-              "parentId": "folder-1771664771026"
-            },
-            {
-              "id": "folder-1771664979430",
-              "name": "Practise Papers",
-              "icon": "Folder",
-              "parentId": "folder-1771664771026"
-            }
-          ],
-          "parentId": "folder-class-9th"
-        },
-        {
-          "id": "folder-1771664791276",
-          "name": "SSC",
-          "icon": "Folder",
-          "children": [
-            {
-              "id": "folder-1771664992378",
-              "name": "History",
-              "icon": "Folder",
-              "parentId": "folder-1771664791276"
-            },
-            {
-              "id": "folder-1771665002416",
-              "name": "Geography",
-              "icon": "Folder",
-              "parentId": "folder-1771664791276"
-            },
-            {
-              "id": "folder-1771665014935",
-              "name": "Pol.Science",
-              "icon": "Folder",
-              "parentId": "folder-1771664791276"
-            },
-            {
-              "id": "folder-1771665024571",
-              "name": "Economic",
-              "icon": "Folder",
-              "parentId": "folder-1771664791276"
-            }
-          ],
-          "parentId": "folder-class-9th"
-        }
-      ]
-    },
-    {
-      "id": "imported-1771665137506-folder-class-9th",
-      "name": "Class-10th",
-      "icon": "GraduationCap",
-      "children": [
-        {
-          "id": "imported-1771665137506-folder-1771664761190",
-          "name": "Science",
-          "icon": "Folder",
-          "children": [
-            {
-              "id": "imported-1771665137506-folder-1771664832756",
-              "name": "Lectures",
-              "icon": "Video",
-              "parentId": "imported-1771665137506-folder-1771664761190"
-            },
-            {
-              "id": "imported-1771665137506-folder-1771664844902",
-              "name": "Notes",
-              "icon": "FileText",
-              "parentId": "imported-1771665137506-folder-1771664761190"
-            },
-            {
-              "id": "imported-1771665137506-folder-1771664862897",
-              "name": "Books",
-              "icon": "Folder",
-              "parentId": "imported-1771665137506-folder-1771664761190"
-            }
-          ],
-          "parentId": "imported-1771665137506-folder-class-9th"
-        },
-        {
-          "id": "imported-1771665137506-folder-1771664771026",
-          "name": "Maths",
-          "icon": "Folder",
-          "children": [
-            {
-              "id": "imported-1771665137506-folder-1771664937992",
-              "name": "Lectures",
-              "icon": "Video",
-              "parentId": "imported-1771665137506-folder-1771664771026"
-            },
-            {
-              "id": "imported-1771665137506-folder-1771664946992",
-              "name": "Books",
-              "icon": "Folder",
-              "parentId": "imported-1771665137506-folder-1771664771026"
-            },
-            {
-              "id": "imported-1771665137506-folder-1771664979430",
-              "name": "Practise Papers",
-              "icon": "Folder",
-              "parentId": "imported-1771665137506-folder-1771664771026"
-            }
-          ],
-          "parentId": "imported-1771665137506-folder-class-9th"
-        },
-        {
-          "id": "imported-1771665137506-folder-1771664791276",
-          "name": "SSC",
-          "icon": "Folder",
-          "children": [
-            {
-              "id": "imported-1771665137506-folder-1771664992378",
-              "name": "History",
-              "icon": "Folder",
-              "parentId": "imported-1771665137506-folder-1771664791276"
-            },
-            {
-              "id": "imported-1771665137506-folder-1771665002416",
-              "name": "Geography",
-              "icon": "Folder",
-              "parentId": "imported-1771665137506-folder-1771664791276"
-            },
-            {
-              "id": "imported-1771665137506-folder-1771665014935",
-              "name": "Pol.Science",
-              "icon": "Folder",
-              "parentId": "imported-1771665137506-folder-1771664791276"
-            },
-            {
-              "id": "imported-1771665137506-folder-1771665024571",
-              "name": "Economic",
-              "icon": "Folder",
-              "parentId": "imported-1771665137506-folder-1771664791276"
-            }
-          ],
-          "parentId": "imported-1771665137506-folder-class-9th"
-        }
-      ]
-    }
-  ],
-  "videos": [
-    {
-      "id": "video-1771665406986",
-      "title": "The Fundamental Unit of Life",
-      "description": "",
-      "thumbnail": "https://img.youtube.com/vi//maxresdefault.jpg",
-      "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3YuuphvXYmo?si=WIN5s-tB1a03djPC\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
-      "duration": "00:00",
-      "categoryId": "folder-1771664832756",
-      "watched": false,
-      "createdAt": "2026-02-21T09:16:46.986Z"
-    },
-    {
-      "id": "video-1771665492791",
-      "title": "Chemical Reactions and Equations",
-      "description": "",
-      "thumbnail": "https://img.youtube.com/vi//maxresdefault.jpg",
-      "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/gQ-X9wV8TXQ?si=arMXCJmJdp9CWvlH\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
-      "duration": "00:00",
-      "categoryId": "imported-1771665137506-folder-1771664832756",
-      "watched": false,
-      "createdAt": "2026-02-21T09:18:12.791Z"
-    }
-  ],
   "contents": [
     {
       "id": "folder-class-9th",
@@ -455,12 +247,52 @@
       "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3YuuphvXYmo?si=WIN5s-tB1a03djPC\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
     },
     {
-      "id": "video-1771665492791",
-      "name": "Chemical Reactions and Equations",
+      "id": "video-1771666689407",
+      "name": "Chemical reaction and equation",
       "type": "video",
       "parentId": "imported-1771665137506-folder-1771664832756",
-      "createdAt": "2026-02-21T09:18:12.791Z",
-      "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/gQ-X9wV8TXQ?si=arMXCJmJdp9CWvlH\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+      "createdAt": "2026-02-21T09:38:09.407Z",
+      "videoUrl": "https://youtu.be/gQ-X9wV8TXQ"
+    },
+    {
+      "id": "video-1771666733524",
+      "name": "Acid, Base & Salts",
+      "type": "video",
+      "parentId": "imported-1771665137506-folder-1771664832756",
+      "createdAt": "2026-02-21T09:38:53.524Z",
+      "videoUrl": "https://youtu.be/qKl4mieovu0"
+    },
+    {
+      "id": "video-1771666762881",
+      "name": "Metals & Non-Metals",
+      "type": "video",
+      "parentId": "imported-1771665137506-folder-1771664832756",
+      "createdAt": "2026-02-21T09:39:22.881Z",
+      "videoUrl": "https://youtu.be/YV1BFWi-AWY"
+    },
+    {
+      "id": "video-1771666798065",
+      "name": "Carbon and its Compounds",
+      "type": "video",
+      "parentId": "imported-1771665137506-folder-1771664832756",
+      "createdAt": "2026-02-21T09:39:58.065Z",
+      "videoUrl": "https://youtu.be/7pGHWkSRFU4"
+    },
+    {
+      "id": "video-1771666832080",
+      "name": "Life processes",
+      "type": "video",
+      "parentId": "imported-1771665137506-folder-1771664832756",
+      "createdAt": "2026-02-21T09:40:32.080Z",
+      "videoUrl": "https://youtu.be/2anxgj0TUgQ"
+    },
+    {
+      "id": "video-1771666908563",
+      "name": "How do organisms reproduce",
+      "type": "video",
+      "parentId": "imported-1771665137506-folder-1771664832756",
+      "createdAt": "2026-02-21T09:41:48.563Z",
+      "videoUrl": "https://youtu.be/RxXsUm8pwaA"
     }
   ]
 }
