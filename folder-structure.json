@@ -1,34 +1,6 @@
 {
   "contents": [
     {
-      "id": "folder-class-9th",
-      "name": "Class-9th",
-      "type": "folder",
-      "parentId": null,
-      "createdAt": "2024-01-01"
-    },
-    {
-      "id": "folder-1771664761190",
-      "name": "Science",
-      "type": "folder",
-      "parentId": "folder-class-9th",
-      "createdAt": "2026-02-21T09:06:01.190Z"
-    },
-    {
-      "id": "folder-1771664771026",
-      "name": "Maths",
-      "type": "folder",
-      "parentId": "folder-class-9th",
-      "createdAt": "2026-02-21T09:06:11.026Z"
-    },
-    {
-      "id": "folder-1771664791276",
-      "name": "SSC",
-      "type": "folder",
-      "parentId": "folder-class-9th",
-      "createdAt": "2026-02-21T09:06:31.276Z"
-    },
-    {
       "id": "folder-1771664832756",
       "name": "Lectures",
       "type": "folder",
@@ -148,27 +120,6 @@
       "createdAt": "2026-02-21T09:06:31.276Z"
     },
     {
-      "id": "imported-1771665137506-folder-1771664832756",
-      "name": "Lectures",
-      "type": "folder",
-      "parentId": "imported-1771665137506-folder-1771664761190",
-      "createdAt": "2026-02-21T09:07:12.756Z"
-    },
-    {
-      "id": "imported-1771665137506-folder-1771664844902",
-      "name": "Notes",
-      "type": "folder",
-      "parentId": "imported-1771665137506-folder-1771664761190",
-      "createdAt": "2026-02-21T09:07:24.902Z"
-    },
-    {
-      "id": "imported-1771665137506-folder-1771664862897",
-      "name": "Books",
-      "type": "folder",
-      "parentId": "imported-1771665137506-folder-1771664761190",
-      "createdAt": "2026-02-21T09:07:42.897Z"
-    },
-    {
       "id": "imported-1771665137506-imported-1771664914273-folder-1771664832756",
       "name": "Lectures",
       "type": "folder",
@@ -188,27 +139,6 @@
       "type": "folder",
       "parentId": "imported-1771665137506-imported-1771664914273-folder-1771664761190",
       "createdAt": "2026-02-21T09:07:42.897Z"
-    },
-    {
-      "id": "imported-1771665137506-folder-1771664937992",
-      "name": "Lectures",
-      "type": "folder",
-      "parentId": "imported-1771665137506-folder-1771664771026",
-      "createdAt": "2026-02-21T09:08:57.992Z"
-    },
-    {
-      "id": "imported-1771665137506-folder-1771664946992",
-      "name": "Books",
-      "type": "folder",
-      "parentId": "imported-1771665137506-folder-1771664771026",
-      "createdAt": "2026-02-21T09:09:06.992Z"
-    },
-    {
-      "id": "imported-1771665137506-folder-1771664979430",
-      "name": "Practise Papers",
-      "type": "folder",
-      "parentId": "imported-1771665137506-folder-1771664771026",
-      "createdAt": "2026-02-21T09:09:39.430Z"
     },
     {
       "id": "imported-1771665137506-folder-1771664992378",
@@ -247,56 +177,8 @@
       "videoUrl": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3YuuphvXYmo?si=WIN5s-tB1a03djPC\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
     },
     {
-      "id": "video-1771666689407",
-      "name": "Chemical reaction and equation",
-      "type": "video",
-      "parentId": "imported-1771665137506-folder-1771664832756",
-      "createdAt": "2026-02-21T09:38:09.407Z",
-      "videoUrl": "https://youtu.be/gQ-X9wV8TXQ"
-    },
-    {
-      "id": "video-1771666733524",
-      "name": "Acid, Base & Salts",
-      "type": "video",
-      "parentId": "imported-1771665137506-folder-1771664832756",
-      "createdAt": "2026-02-21T09:38:53.524Z",
-      "videoUrl": "https://youtu.be/qKl4mieovu0"
-    },
-    {
-      "id": "video-1771666762881",
-      "name": "Metals & Non-Metals",
-      "type": "video",
-      "parentId": "imported-1771665137506-folder-1771664832756",
-      "createdAt": "2026-02-21T09:39:22.881Z",
-      "videoUrl": "https://youtu.be/YV1BFWi-AWY"
-    },
-    {
-      "id": "video-1771666798065",
-      "name": "Carbon and its Compounds",
-      "type": "video",
-      "parentId": "imported-1771665137506-folder-1771664832756",
-      "createdAt": "2026-02-21T09:39:58.065Z",
-      "videoUrl": "https://youtu.be/7pGHWkSRFU4"
-    },
-    {
-      "id": "video-1771666832080",
-      "name": "Life processes",
-      "type": "video",
-      "parentId": "imported-1771665137506-folder-1771664832756",
-      "createdAt": "2026-02-21T09:40:32.080Z",
-      "videoUrl": "https://youtu.be/2anxgj0TUgQ"
-    },
-    {
-      "id": "video-1771666908563",
-      "name": "How do organisms reproduce",
-      "type": "video",
-      "parentId": "imported-1771665137506-folder-1771664832756",
-      "createdAt": "2026-02-21T09:41:48.563Z",
-      "videoUrl": "https://youtu.be/RxXsUm8pwaA"
-    },
-    {
       "id": "folder-playlist-1772102381175",
-      "name": "14 Days 14 Chapters Marathon 2026",
+      "name": "Lectures",
       "type": "folder",
       "parentId": "imported-1771665137506-folder-1771664771026",
       "createdAt": "2026-02-26T10:39:41.175Z"
@@ -457,7 +339,7 @@
     },
     {
       "id": "folder-playlist-1772102457400",
-      "name": "Class 10 ( Science)",
+      "name": "Lectures",
       "type": "folder",
       "parentId": "imported-1771665137506-folder-1771664761190",
       "createdAt": "2026-02-26T10:40:57.400Z"
@@ -725,6 +607,34 @@
       "duration": "1:51:12",
       "thumbnail": "https://i.ytimg.com/vi/1o7IuDldhRQ/maxresdefault.jpg",
       "description": "Join telegram for notes 👇\nhttps://t.me/exphub910\n\nLecture notes✅\nhttps://drive.google.com/file/d/19mbsPh91D-P_rFzAkG-1YqqryzJCE5wu/view?usp=drivesdk\n\nMy Class 10th Book 👇( Limited Books only)\nhttps://amzn.to/4j9hhTZ\n\nFollow Prashant bhaiya on Instagram ❤️\nPrashant_.kirad\n\n\n\n#class10science #study #class10 #class10th #motivation #class9 #science"
+    },
+    {
+      "id": "folder-1772122942382",
+      "name": "Notes",
+      "type": "folder",
+      "parentId": "imported-1771665137506-folder-1771664761190",
+      "createdAt": "2026-02-26T16:22:22.382Z"
+    },
+    {
+      "id": "folder-1772122952694",
+      "name": "Books",
+      "type": "folder",
+      "parentId": "imported-1771665137506-folder-1771664761190",
+      "createdAt": "2026-02-26T16:22:32.694Z"
+    },
+    {
+      "id": "folder-1772122985738",
+      "name": "Books",
+      "type": "folder",
+      "parentId": "imported-1771665137506-folder-1771664771026",
+      "createdAt": "2026-02-26T16:23:05.738Z"
+    },
+    {
+      "id": "folder-1772122999758",
+      "name": "Practise Papers",
+      "type": "folder",
+      "parentId": "imported-1771665137506-folder-1771664771026",
+      "createdAt": "2026-02-26T16:23:19.758Z"
     }
   ]
 }
