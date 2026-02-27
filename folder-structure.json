@@ -635,6 +635,30 @@
       "type": "folder",
       "parentId": "imported-1771665137506-folder-1771664771026",
       "createdAt": "2026-02-26T16:23:19.758Z"
+    },
+    {
+      "id": "pdf-1772158116420",
+      "name": "XAM Idea Science",
+      "type": "pdf",
+      "parentId": "folder-1772122952694",
+      "createdAt": "2026-02-27T02:08:36.420Z",
+      "pdfUrl": "https://drive.google.com/file/d/1MtcpV6L6aH6cQVp26RR8efrV5c0o_Hpl/view?usp=sharing"
+    },
+    {
+      "id": "pdf-1772158208255",
+      "name": "XAM Idea Mathematics",
+      "type": "pdf",
+      "parentId": "folder-1772122985738",
+      "createdAt": "2026-02-27T02:10:08.255Z",
+      "pdfUrl": "https://drive.google.com/file/d/1FT3MYoilNklMRs9wxjVGmLJO1YzUV1UR/view?usp=sharing"
+    },
+    {
+      "id": "pdf-1772158575524",
+      "name": "XAM Idea SSC",
+      "type": "pdf",
+      "parentId": "imported-1771665137506-folder-1771664791276",
+      "createdAt": "2026-02-27T02:16:15.524Z",
+      "pdfUrl": "https://drive.google.com/file/d/1BTdjkYCETyRDnijbRViZxnj78ykTVpg-/view?usp=sharing"
     }
   ]
 }
